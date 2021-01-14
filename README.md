@@ -1,6 +1,5 @@
 ### Hi there, my name is Oskar Oberg - aka [OB3RG][website] 👋
 
-![Website](https://oskaroberg.com)
 
 <!--
 **OB3RG/OB3RG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[website]: https://oskaroberg.com
