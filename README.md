@@ -4,8 +4,6 @@
 
  - 🔭 I’m currently working with backend development and DevOps things
  - 👯 I’m looking to collaborate on cool projects
- - 🥅 2021 Goal: Contribute to Open Source projects
- - ⚡ Fun fact: I'm a european champion in drum corps.
 
 ### Connect with me:
 
